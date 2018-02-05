@@ -1,2 +1,2 @@
 # Fun-Repository
-Fun,play around.
+Hi i'm new to coding and i'm just having a play around.
